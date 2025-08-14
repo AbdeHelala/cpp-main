@@ -1,0 +1,22 @@
+# Ignore build directory
+build/
+
+# Ignore the ZIP
+Assignment_4_Material.zip
+
+# Ignore compiled executables (edit names if needed)
+code/task2
+code/task3
+code/task4
+code/task5
+
+# Ignore test files and intermediate outputs
+code/*.input.*
+code/*.output.*
+code/*.solution.*
+code/*.txt
+code/expected.txt
+
+# Ignore system/editor temp files
+code/.nfs*
+.vscode/
